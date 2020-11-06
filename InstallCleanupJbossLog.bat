@@ -1,0 +1,1 @@
+SchTasks /Create /SC DAILY /TN "Cleanup Jboss Log" /TR "D:\antcalls\vdoxx_mysql\CleanupJbossLog.bat" /ST 04:30 /RU SYSTEM

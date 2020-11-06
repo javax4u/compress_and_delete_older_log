@@ -1,0 +1,1 @@
+SchTasks /Create /SC DAILY /TN "Compress Jboss Log" /TR "D:\antcalls\vdoxx_mysql\compress-jboss-log.bat" /ST 04:30 /RU SYSTEM

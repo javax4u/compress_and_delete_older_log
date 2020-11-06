@@ -1,0 +1,1 @@
+SchTasks /Create /SC DAILY /TN "Mysql Backup Cleanup" /TR "D:\antcalls\vdoxx_mysql\CleanupMysqlBackup.bat" /ST 04:00 /RU SYSTEM
